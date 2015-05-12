@@ -1,4 +1,4 @@
-# React `o` comments
+# React 'o' comments
 The official [React.js](https://facebook.github.io/react/docs/tutorial.html) tutorial, with a [json-server](https://github.com/typicode/json-server) backend, [Dockerized](http://docker.com).
 
 ```shell
