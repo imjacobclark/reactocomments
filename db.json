@@ -1,0 +1,17 @@
+{
+  "comments": [
+    {
+      "author": "Pete Hunt",
+      "text": "This is one comment"
+    },
+    {
+      "author": "Jordan Walke",
+      "text": "This is *another* comment"
+    },
+    {
+      "author": "Jacob Clark",
+      "text": "Hello World!",
+      "id": "89fdbffc-b81f-4463-aee5-d1bdf7b9565b"
+    }
+  ]
+}
