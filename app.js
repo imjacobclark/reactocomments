@@ -6,4 +6,4 @@ server.use(jsonServer.defaults)
 
 server.use(jsonServer.router('db.json'))
 
-server.listen(3000)
+server.listen(3000, "0.0.0.0")
